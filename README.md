@@ -9,7 +9,7 @@ This repository is a **technical project overview**. It documents selected contr
 > **My role:** Software Project Engineer, UCLA Bruin Racing Baja  
 > **Focus:** Embedded firmware, test infrastructure, data acquisition, deployment, and debugging
 
-![UCLA Bruin Racing Baja vehicle](assets/baja-vehicle.jpg)
+![UCLA Bruin Racing Baja vehicle](assets/baja-vehicle.png)
 
 *UCLA Bruin Racing Baja vehicle.*
 
